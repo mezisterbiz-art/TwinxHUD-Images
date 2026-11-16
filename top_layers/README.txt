@@ -1,0 +1,1 @@
+Twinx Rust TOP tab assets. Each PNG is a separate transparent layer: 5 category icons, 3 reward crates, 3 rank medals. Runtime source: plugin/TwinxHUD.cs. The original PSD and original HUD layers remain unchanged.
